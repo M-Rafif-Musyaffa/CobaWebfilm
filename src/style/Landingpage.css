@@ -1,0 +1,42 @@
+.myBG {
+  height: 100vh;
+  background: url("../asset/main.JPG");
+  background-size: cover;
+}
+.Intro {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 2px;
+}
+.trending {
+  height: auto;
+  background: url("../asset/trending.jpg");
+  background-size: cover;
+}
+.drama {
+  height: auto;
+  background: url("../asset/Drama.jpg");
+  background-size: cover;
+}
+.MovieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+.MovieWeapper {
+}
+.Images {
+  height: 500px;
+}
+.textSize {
+  height: 100px;
+  font-size: 12px;
+}
